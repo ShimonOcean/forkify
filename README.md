@@ -3,16 +3,16 @@ A web application to help the everyday person search for recipes for their favor
 
 ## Installation
 
-Clone the repository using GitBash
+1. Clone the repository using GitBash
 > git clone https://github.com/ShimonOcean/forkify.git
 
-Run npm install in project root
+2. Run npm install in project root
 > npm install 
 
-Start the server
+3. Start the server
 > npm run start
 
-Now everything should be up and running!
+4. Now everything should be up and running!
 
 ## Built Using
 * [food2fork](https://www.food2fork.com/) - API containing recipes
